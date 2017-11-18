@@ -1,0 +1,29 @@
+---
+title: "HW 04 - Final project proposal"
+author: "Team Name"
+date: "November 9, 2017"
+output: 
+  html_document: 
+    fig_height: 4
+    highlight: pygments
+    keep_md: yes
+    theme: sandstone
+---
+
+### Load packages
+
+```{r packages, message=FALSE}
+# add packages you need here
+```
+
+### Introduction draft
+
+### Data analysis plan
+
+### Data
+
+Make sure to print all or a portion of your data here.
+
+
+
+
